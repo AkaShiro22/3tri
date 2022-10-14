@@ -13,5 +13,7 @@ $ pkg install php7
 # excute
 
 $ git clone https://github.com/AkaShiro22/3tri)
+
 $ cd 3tri
+
 $ php 3tri.php
