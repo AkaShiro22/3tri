@@ -1,3 +1,6 @@
+# Simple Script Bima+ Tembak Paket
+```shell
+New update allow for Window and Device termux
 # (https://github.com/AkaShiro22/3tri)
 
 $ pkg update && pkg upgrade
