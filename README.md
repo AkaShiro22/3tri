@@ -1,4 +1,4 @@
-# (https://github.com/AkaShiro22/3tri/3tri.php)
+# (https://github.com/AkaShiro22/3tri)
 
 $ pkg update && pkg upgrade
 
@@ -12,6 +12,6 @@ $ pkg install php7
 
 # excute
 
-$ git clone https://github.com/AkaShiro22/3tri/3tri.php)
+$ git clone https://github.com/AkaShiro22/3tri)
 $ cd 3tri
 $ php 3tri.php
